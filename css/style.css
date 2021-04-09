@@ -6,3 +6,19 @@
 [class*="col-"]{
     padding: 10px;
 }
+
+a{
+    background-color: lightgreen;
+    padding: 5px 5px;
+    border-radius: 15%;
+}
+
+.contact{
+    border-bottom: 1px solid grey;
+}
+
+#send{
+    color: white;
+    background-color: #1ABC9C;
+    float: left;
+}
