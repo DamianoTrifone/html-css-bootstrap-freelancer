@@ -2,3 +2,7 @@
     min-height: 100px;
     background-color: royalblue;
 }
+
+[class*="col-"]{
+    padding: 10px;
+}
