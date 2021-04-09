@@ -22,3 +22,9 @@ a{
     background-color: #1ABC9C;
     float: left;
 }
+
+#link_footer{
+    text-decoration: none;
+    padding: 0;
+    color:#1ABC9C;
+}
