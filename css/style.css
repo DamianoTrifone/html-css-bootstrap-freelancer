@@ -45,6 +45,11 @@ img{
     background-color: #2C3E50;
 }
 
+.jumbotron{
+    margin-top: 90px;
+    background-color: #1ABC9C;
+}
+
 a{
     background-color: lightgreen;
     padding: 5px 5px;
