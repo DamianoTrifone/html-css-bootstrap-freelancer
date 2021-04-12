@@ -7,6 +7,24 @@
     padding: 10px;
 }
 
+h1, h2, h3{
+    color: white;
+    text-transform: uppercase;
+    font-size: bold;
+}
+
+img{
+    width: 250px;
+}
+
+.header a{
+    color: white;
+    background-color: transparent;
+    text-transform: uppercase;
+    vertical-align: middle;
+    line-height: 80px;
+}
+
 .header{
     background-color: #2C3E50;
 }
