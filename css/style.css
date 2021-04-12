@@ -20,7 +20,8 @@ img{
 #logo_header{
     float: left;
     margin-left: 10%;  
-    font-size: large; 
+    font-size: large;
+    font-weight: bold; 
 }
 
 #link_header{
@@ -48,6 +49,16 @@ img{
 .jumbotron{
     margin-top: 90px;
     background-color: #1ABC9C;
+}
+
+.jumbotron h3{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#star{
+    color: white;
+    font-size: 30px;
 }
 
 a{
