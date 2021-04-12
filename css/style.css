@@ -17,6 +17,15 @@ img{
     width: 250px;
 }
 
+#logo_header{
+    float: left;
+}
+
+.nav,
+.navbar-nav{
+    float: right;
+}
+
 .header a{
     color: white;
     background-color: transparent;
