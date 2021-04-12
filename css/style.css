@@ -93,10 +93,11 @@ p{
     color: white;
 }
 
-a{
-    background-color: lightgreen;
-    padding: 5px 5px;
-    border-radius: 15%;
+.about a{
+    color: white;
+    padding: 10px 8px;
+    border: 1px solid white;
+    border-radius: 10%;
 }
 
 .contact{
