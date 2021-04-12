@@ -100,14 +100,12 @@ p{
     border-radius: 10%;
 }
 
-.contact{
-    border-bottom: 1px solid grey;
-}
 
 #send{
     color: white;
     background-color: #1ABC9C;
-    float: left;
+    padding: 10px 10px;
+    border-radius: 10px;
 }
 
 #link_footer{
