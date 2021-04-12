@@ -10,7 +10,6 @@
 h1, h2, h3{
     color: white;
     text-transform: uppercase;
-    font-size: bold;
 }
 
 img{
@@ -54,6 +53,12 @@ img{
 .jumbotron h3{
     font-weight: bold;
     font-size: 40px;
+}
+
+.jumbotron h4{
+    color: white;
+    text-transform: uppercase;
+    font-size: 25px;
 }
 
 #star{
