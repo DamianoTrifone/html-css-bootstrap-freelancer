@@ -19,6 +19,13 @@ img{
 
 #logo_header{
     float: left;
+    margin-left: 10%;  
+    font-size: large; 
+}
+
+#link_header{
+    color: white;
+    padding: 30px 10px;
 }
 
 .nav,
